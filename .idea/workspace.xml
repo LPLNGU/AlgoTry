@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e9870490-c105-41b7-b53a-982e7494e4e2" name="Default Changelist" comment="" />
+    <list default="true" id="e9870490-c105-41b7-b53a-982e7494e4e2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaMethod/META-INF/JavaMethod.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaMethod/TwentyFourPointCalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMethod/TwentyFourPointCalculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaMethod/method/AddThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMethod/method/AddThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaMethod/method/ArrayOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMethod/method/ArrayOrder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaMethod/method/CountingBinaryTrees.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMethod/method/CountingBinaryTrees.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaMethod/method/DecThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMethod/method/DecThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaMethod/method/Permutation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMethod/method/Permutation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaMethod/method/PrintFromTopToBottom.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMethod/method/PrintFromTopToBottom.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TwentyFourPointCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TwentyFourPointCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/method/Permutation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/method/Permutation.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,7 +45,12 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
@@ -62,6 +80,8 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -77,7 +97,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunManager" selected="Application.Permutation">
     <configuration name="ExecutorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -210,11 +230,55 @@
       <workItem from="1590051959919" duration="699000" />
       <workItem from="1590731794334" duration="9271000" />
       <workItem from="1591260364117" duration="1552000" />
+      <workItem from="1591273779766" duration="5304000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
   </component>
   <component name="WindowStateProjectService">
     <state x="651" y="274" key="#Notifications" timestamp="1589257360800">
@@ -237,46 +301,63 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="367" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1587796884677" />
-    <state width="1493" height="260" key="GridCell.Tab.0.bottom" timestamp="1591261922180">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1591278972856">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1493" height="260" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591261922180" />
-    <state width="1493" height="260" key="GridCell.Tab.0.center" timestamp="1591261922179">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591278972856" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1591278972856">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1493" height="260" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1591261922179" />
-    <state width="1493" height="260" key="GridCell.Tab.0.left" timestamp="1591261922179">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591278972856" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1591278972856">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1493" height="260" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1591261922179" />
-    <state width="1493" height="260" key="GridCell.Tab.0.right" timestamp="1591261922179">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591278972856" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1591278972856">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1493" height="260" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1591261922179" />
-    <state width="1493" height="260" key="GridCell.Tab.1.bottom" timestamp="1591261922180">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591278972856" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1591278700059">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1493" height="260" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591261922180" />
-    <state width="1493" height="260" key="GridCell.Tab.1.center" timestamp="1591261922180">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591278700059" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1591278700058">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1493" height="260" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1591261922180" />
-    <state width="1493" height="260" key="GridCell.Tab.1.left" timestamp="1591261922180">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591278700058" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1591278700058">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1493" height="260" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1591261922180" />
-    <state width="1493" height="260" key="GridCell.Tab.1.right" timestamp="1591261922180">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591278700058" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1591278700059">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1493" height="260" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1591261922180" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591278700059" />
+    <state x="540" y="254" key="IDE.errors.dialog" timestamp="1591278005296">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="540" y="254" key="IDE.errors.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591278005296" />
     <state x="573" y="113" key="RollbackChangesDialog" timestamp="1587796869935">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="573" y="113" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1587796869935" />
-    <state x="270" y="0" key="SettingsEditor" timestamp="1590734757080">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="415" y="99" key="SettingsEditor" timestamp="1591273799459">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="270" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1590734757080" />
+    <state x="415" y="99" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1591273799459" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1591278915498">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1591278915498" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1589112788088">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -289,19 +370,18 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
+        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/method/Permutation.java</url>
-          <line>26</line>
-          <properties class="method.Permutation" method="helpPer">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="2" />
+          <line>38</line>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
-        <watch expression="chars" />
+        <watch expression="res" />
+        <watch expression="str" />
+        <watch expression="Permutation.strings" />
       </configuration>
     </watches-manager>
   </component>
