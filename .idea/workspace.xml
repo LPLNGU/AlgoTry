@@ -26,8 +26,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e9870490-c105-41b7-b53a-982e7494e4e2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/method/MoreThanHalfNum_Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/method/MoreThanHalfNum_Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/method/MoreThanHalfNum_Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -247,6 +246,7 @@
       <workItem from="1591260364117" duration="1552000" />
       <workItem from="1591273779766" duration="5989000" />
       <workItem from="1591279792169" duration="2733000" />
+      <workItem from="1591344155147" duration="618000" />
     </task>
     <servers />
   </component>

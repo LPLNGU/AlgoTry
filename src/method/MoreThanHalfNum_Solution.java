@@ -10,10 +10,10 @@ import java.util.*;
  * */
 public class MoreThanHalfNum_Solution {
 
-    public static void main(String[] args) {
+ /*   public static void main(String[] args) {
         int[] array = {1, 2, 3, 4, 1, 1, 1, 1};
         System.out.println(MoreThanHalfNum_Solution(array));
-    }
+    }*/
 
     public int MoreThanHalfNum_Solution(int[] array) {
         int result = fine(array);
