@@ -26,7 +26,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e9870490-c105-41b7-b53a-982e7494e4e2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/method/MoreThanHalfNum_Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/method/MoreThanHalfNum_Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/FindGreatestSumOfSubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/GetLeastNumbers_Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaMethod/TwentyFourPointCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaMethod/method/MoreThanHalfNum_Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMethod/method/MoreThanHalfNum_Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TwentyFourPointCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/method/TwentyFourPointCalculator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,7 +119,7 @@
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunManager" selected="Application.MoreThanHalfNum_Solution">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="ExecutorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="method.ExecutorTest" />
       <module name="JavaMethod" />
@@ -123,6 +129,13 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="JavaMethod" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -153,19 +166,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintFromTopToBottom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="method.PrintFromTopToBottom" />
-      <module name="JavaMethod" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="method.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="VerifySquenceOfBST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="method.VerifySquenceOfBST" />
       <module name="JavaMethod" />
@@ -181,11 +181,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.MoreThanHalfNum_Solution" />
         <item itemvalue="Application.Permutation" />
         <item itemvalue="Application.ExecutorTest" />
         <item itemvalue="Application.VerifySquenceOfBST" />
-        <item itemvalue="Application.PrintFromTopToBottom" />
       </list>
     </recent_temporary>
   </component>
@@ -246,7 +246,8 @@
       <workItem from="1591260364117" duration="1552000" />
       <workItem from="1591273779766" duration="5989000" />
       <workItem from="1591279792169" duration="2733000" />
-      <workItem from="1591344155147" duration="618000" />
+      <workItem from="1591344155147" duration="5397000" />
+      <workItem from="1591450211623" duration="591000" />
     </task>
     <servers />
   </component>
@@ -322,46 +323,46 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="367" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1587796884677" />
-    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1591282927310">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1591351904241">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1493" height="260" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591261922180" />
-    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591282927310" />
-    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1591282927310">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591351904241" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1591351904241">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1493" height="260" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1591261922179" />
-    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591282927310" />
-    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1591282927310">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591351904241" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1591351904241">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1493" height="260" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1591261922179" />
-    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591282927310" />
-    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1591282927310">
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591351904241" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1591351904241">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1493" height="260" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1591261922179" />
-    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591282927310" />
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1591282927311">
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591351904241" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1591351368247">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1493" height="260" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591261922180" />
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591282927311" />
-    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1591282927311">
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591351368247" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1591351368247">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1493" height="260" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1591261922180" />
-    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591282927311" />
-    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1591282927310">
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591351368247" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1591351368247">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1493" height="260" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1591261922180" />
-    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591282927310" />
-    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1591282927311">
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591351368247" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1591351368247">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1493" height="260" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1591261922180" />
-    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591282927311" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591351368247" />
     <state x="540" y="254" key="IDE.errors.dialog" timestamp="1591278005296">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -396,13 +397,21 @@
           <line>38</line>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
-        <watch expression="res" />
-        <watch expression="str" />
-        <watch expression="Permutation.strings" />
+        <watch expression="((FindGreatestSumOfSubArray)this).list" custom="method.FindGreatestSumOfSubArray" />
       </configuration>
     </watches-manager>
   </component>
