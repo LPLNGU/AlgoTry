@@ -26,13 +26,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e9870490-c105-41b7-b53a-982e7494e4e2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/method/FindGreatestSumOfSubArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/method/GetLeastNumbers_Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMethod/TwentyFourPointCalculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMethod/method/MoreThanHalfNum_Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMethod/method/MoreThanHalfNum_Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TwentyFourPointCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/method/TwentyFourPointCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/method/FindGreatestSumOfSubArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/method/FindGreatestSumOfSubArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -248,6 +243,12 @@
       <workItem from="1591279792169" duration="2733000" />
       <workItem from="1591344155147" duration="5397000" />
       <workItem from="1591450211623" duration="591000" />
+      <workItem from="1591515250907" duration="226000" />
+      <workItem from="1591515598803" duration="848000" />
+      <workItem from="1591578085038" duration="593000" />
+      <workItem from="1591621746979" duration="8000" />
+      <workItem from="1591665857461" duration="160000" />
+      <workItem from="1591796708892" duration="600000" />
     </task>
     <servers />
   </component>
@@ -323,6 +324,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="367" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1587796884677" />
+    <state x="739" y="336" key="FileChooserDialogImpl" timestamp="1591666000672">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="336" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1591666000672" />
     <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1591351904241">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -380,6 +385,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1591278915498" />
+    <state x="334" y="129" key="new project wizard" timestamp="1591666023539">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="334" y="129" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1591666023539" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1589112788088">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

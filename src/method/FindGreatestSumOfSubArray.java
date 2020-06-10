@@ -10,5 +10,12 @@ import java.util.*;
  *
  * */
 public class FindGreatestSumOfSubArray {
-    
+    public int FindGreatestSumOfSubArray(int[] array) {
+        int max = array[0];
+        for (int i = 1; i < array.length; i++) {
+            array[i] += Math.max(array[i - 1], 0);
+            max = Math.max(array[i],max);
+        }
+        return max;
+    }
 }
