@@ -26,11 +26,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e9870490-c105-41b7-b53a-982e7494e4e2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/method/GetUglyNumber_Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/method/PrintMinNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMethod/method/FindGreatestSumOfSubArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMethod/method/FindGreatestSumOfSubArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/method/NumberOf1Between1AndN_Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/method/NumberOf1Between1AndN_Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/method/GetUglyNumber_Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/method/GetUglyNumber_Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,7 +115,20 @@
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
-  <component name="RunManager" selected="Application.PrintMinNumber">
+  <component name="RunManager" selected="Application.GetUglyNumber_Solution">
+    <configuration name="GetUglyNumber_Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="method.GetUglyNumber_Solution" />
+      <module name="JavaMethod" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="method.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="JavaMethod" />
@@ -152,19 +162,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Permutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="method.Permutation" />
-      <module name="JavaMethod" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="method.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="PrintMinNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="method.PrintMinNumber" />
       <module name="JavaMethod" />
@@ -180,11 +177,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GetUglyNumber_Solution" />
         <item itemvalue="Application.PrintMinNumber" />
         <item itemvalue="Application.NumberOf1Between1AndN_Solution" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.MoreThanHalfNum_Solution" />
-        <item itemvalue="Application.Permutation" />
       </list>
     </recent_temporary>
   </component>
@@ -254,7 +251,7 @@
       <workItem from="1591665857461" duration="160000" />
       <workItem from="1591796708892" duration="1042000" />
       <workItem from="1591800697145" duration="2598000" />
-      <workItem from="1591837454466" duration="6415000" />
+      <workItem from="1591837454466" duration="9402000" />
     </task>
     <servers />
   </component>
@@ -338,46 +335,46 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="739" y="336" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1591666000672" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1591861057338">
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1591864257407">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1493" height="260" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591261922180" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591861057338" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1591861057337">
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591864257407" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1591864257407">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1493" height="260" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1591261922179" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591861057337" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1591861057337">
+    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591864257407" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1591864257407">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1493" height="260" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1591261922179" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591861057337" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1591861057337">
+    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591864257407" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1591864257407">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1493" height="260" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1591261922179" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591861057337" />
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1591802364335">
+    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591864257407" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1591864257525">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1493" height="260" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591261922180" />
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591802364335" />
-    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1591802364335">
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591864257525" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1591864257525">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1493" height="260" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1591261922180" />
-    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591802364335" />
-    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1591802364334">
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591864257525" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1591864257525">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1493" height="260" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1591261922180" />
-    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591802364334" />
-    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1591802364335">
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591864257525" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1591864257525">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1493" height="260" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1591261922180" />
-    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591802364335" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591864257525" />
     <state x="540" y="254" key="IDE.errors.dialog" timestamp="1591278005296">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -430,16 +427,21 @@
           <line>7</line>
           <option name="timeStamp" value="13" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/method/GetUglyNumber_Solution.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="((FindGreatestSumOfSubArray)this).list" custom="method.FindGreatestSumOfSubArray" />
-      </configuration>
-    </watches-manager>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/suanfati$GetUglyNumber_Solution.ic" NAME="GetUglyNumber_Solution Coverage Results" MODIFIED="1591864494808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>method.*</FILTER>
+    </SUITE>
   </component>
 </project>
