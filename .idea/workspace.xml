@@ -27,7 +27,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e9870490-c105-41b7-b53a-982e7494e4e2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/method/GetUglyNumber_Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/method/GetUglyNumber_Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +98,7 @@
     <property name="TODO_SCOPE" value="All Places" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../学习资源/simple-virtual-machine" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -252,6 +251,9 @@
       <workItem from="1591796708892" duration="1042000" />
       <workItem from="1591800697145" duration="2598000" />
       <workItem from="1591837454466" duration="9402000" />
+      <workItem from="1591867717830" duration="699000" />
+      <workItem from="1591931378397" duration="402000" />
+      <workItem from="1591966124890" duration="37000" />
     </task>
     <servers />
   </component>
@@ -331,10 +333,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="367" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1587796884677" />
-    <state x="739" y="336" key="FileChooserDialogImpl" timestamp="1591666000672">
+    <state x="739" y="336" key="FileChooserDialogImpl" timestamp="1591931784473">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="739" y="336" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1591666000672" />
+    <state x="739" y="336" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1591931784473" />
     <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1591864257407">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -426,11 +428,6 @@
           <url>file://$PROJECT_DIR$/src/Main.java</url>
           <line>7</line>
           <option name="timeStamp" value="13" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/method/GetUglyNumber_Solution.java</url>
-          <line>27</line>
-          <option name="timeStamp" value="16" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
