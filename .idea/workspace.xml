@@ -26,17 +26,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e9870490-c105-41b7-b53a-982e7494e4e2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/method/FirstNotRepeatingChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/method/InversePairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/method/MergeSortSelfTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiThread/src/com/lpl/output/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThread/src/com/lpl/output/main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiThread/src/com/lpl/producer_and_consumer/Consumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/MultiThread/src/com/lpl/producer_and_consumer/Consumer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMethod/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMethod/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MultiThread/com/lpl/Consumer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MultiThread/com/lpl/Producer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MultiThread/com/lpl/ProducerConsumerTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/method/InversePairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/method/InversePairs.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -275,6 +266,7 @@
       <workItem from="1592582789707" duration="744000" />
       <workItem from="1592645197172" duration="11966000" />
       <workItem from="1592744029609" duration="16000" />
+      <workItem from="1592820845110" duration="2409000" />
     </task>
     <servers />
   </component>

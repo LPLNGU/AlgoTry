@@ -24,8 +24,16 @@ public class InversePairs {
                 temp[k++] = array[p2++];
                 num += mid - p1 + 1;
             }
+            while (p1 <= mid) {
+                temp[k++] = array[p1++];
+            }
+            while (p2 <= mid) {
+                temp[k++] = array[p2++];
+            }
         }
-
+        for (int i = 0; i < array.length; i++) {
+            array[i] = temp[i];
+        }
     }
 
     public void mergeSort(int[] array, int begin, int end) {
