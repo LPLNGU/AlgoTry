@@ -10,9 +10,9 @@ import java.util.ArrayList;
 public class InversePairs {
     int num = 0;
 
-    public int InversePairs(int[] array) {
-
-    }
+//    public int InversePairs(int[] array) {
+//
+//    }
 
     public void merge(int[] array, int begin, int mid, int end) {
         int p1 = begin, p2 = mid + 1, k = begin;

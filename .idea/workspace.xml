@@ -26,9 +26,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e9870490-c105-41b7-b53a-982e7494e4e2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/method/IsBalanced_Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/method/InversePairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/method/InversePairs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/method/IsBalanced_Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/method/IsBalanced_Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -284,7 +284,7 @@
       <workItem from="1592896049424" duration="11210000" />
       <workItem from="1592923770427" duration="716000" />
       <workItem from="1592978707699" duration="2805000" />
-      <workItem from="1593781570441" duration="2284000" />
+      <workItem from="1593781570441" duration="5606000" />
     </task>
     <servers />
   </component>
