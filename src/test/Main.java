@@ -1,0 +1,1 @@
+package test;import java.util.*;public class Main {    static List<Integer> integers = new ArrayList<>();    StringBuilder stringBuilder = new StringBuilder();    public static void main(String[] args) {        Scanner sc = new Scanner(System.in);    }}

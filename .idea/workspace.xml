@@ -20,15 +20,17 @@
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:hpComputer" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9870490-c105-41b7-b53a-982e7494e4e2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/method/FindContinuousSequence.java" afterDir="false" />
+    <list default="true" id="e9870490-c105-41b7-b53a-982e7494e4e2" name="Default Changelist" comment="添加了把字符串转化为整数">
+      <change afterPath="$PROJECT_DIR$/src/method/multiply.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/二叉树的层次遍历II.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/method/FindNumsAppearOnce.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/method/FindNumsAppearOnce.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/method/Duplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/method/Duplicate.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,15 +116,15 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="http.proxy" />
   </component>
-  <component name="RunManager" selected="Application.Profiler">
-    <configuration name="ProducerConsumerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lpl.producer_and_consumer.ProducerConsumerTest" />
-      <module name="MultiThread" />
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Duplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="method.Duplicate" />
+      <module name="JavaMethod" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lpl.producer_and_consumer.*" />
+          <option name="PATTERN" value="method.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,12 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Profiler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lpl.threadlocal.Profiler" />
-      <module name="MultiThread" />
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.Main" />
+      <module name="JavaMethod" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lpl.threadlocal.*" />
+          <option name="PATTERN" value="test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,12 +145,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Shutdown" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lpl.safe_shutdown.Shutdown" />
-      <module name="MultiThread" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="JavaMethod" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StrToInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="method.StrToInt" />
+      <module name="JavaMethod" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lpl.safe_shutdown.*" />
+          <option name="PATTERN" value="method.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,25 +165,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WaitNotify" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lpl.wait_notify.WaitNotify" />
-      <module name="MultiThread" />
+    <configuration name="isContinuous" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="method.isContinuous" />
+      <module name="JavaMethod" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lpl.wait_notify.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lpl.alternate_output.main" />
-      <module name="MultiThread" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.lpl.alternate_output.*" />
+          <option name="PATTERN" value="method.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -183,19 +179,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Shutdown" />
-      <item itemvalue="Application.WaitNotify" />
-      <item itemvalue="Application.main" />
-      <item itemvalue="Application.ProducerConsumerTest" />
-      <item itemvalue="Application.Profiler" />
+      <item itemvalue="Application.isContinuous" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.StrToInt" />
+      <item itemvalue="Application.Duplicate" />
+      <item itemvalue="Application.Main (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Profiler" />
-        <item itemvalue="Application.ProducerConsumerTest" />
-        <item itemvalue="Application.main" />
-        <item itemvalue="Application.Shutdown" />
-        <item itemvalue="Application.WaitNotify" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Duplicate" />
+        <item itemvalue="Application.StrToInt" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.isContinuous" />
       </list>
     </recent_temporary>
   </component>
@@ -289,7 +285,71 @@
       <workItem from="1594117163153" duration="801000" />
       <workItem from="1594176245638" duration="649000" />
       <workItem from="1594207928675" duration="5570000" />
+      <workItem from="1594279984285" duration="1137000" />
+      <workItem from="1594722028475" duration="408000" />
+      <workItem from="1595162509120" duration="7877000" />
+      <workItem from="1595209369135" duration="37000" />
+      <workItem from="1595301235522" duration="1461000" />
+      <workItem from="1595321269016" duration="597000" />
+      <workItem from="1595381749402" duration="1354000" />
+      <workItem from="1595386755291" duration="8540000" />
+      <workItem from="1595404016234" duration="8936000" />
+      <workItem from="1595486776831" duration="5623000" />
+      <workItem from="1595571617769" duration="817000" />
+      <workItem from="1596424222424" duration="769000" />
+      <workItem from="1597135693607" duration="2506000" />
+      <workItem from="1597240461954" duration="3129000" />
+      <workItem from="1597243649813" duration="105000" />
+      <workItem from="1597282159853" duration="555000" />
+      <workItem from="1597283036208" duration="355000" />
+      <workItem from="1597311821564" duration="2326000" />
+      <workItem from="1597369267656" duration="279000" />
+      <workItem from="1597372395263" duration="3328000" />
+      <workItem from="1597402960280" duration="3695000" />
+      <workItem from="1597741534924" duration="789000" />
+      <workItem from="1597752374558" duration="3817000" />
+      <workItem from="1597835663814" duration="648000" />
+      <workItem from="1597887680399" duration="538000" />
+      <workItem from="1598850658021" duration="2316000" />
+      <workItem from="1599315659859" duration="2155000" />
+      <workItem from="1599403225735" duration="4030000" />
     </task>
+    <task id="LOCAL-00001" summary="添加了和为S的连续正数">
+      <created>1595164137927</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1595164137927</updated>
+    </task>
+    <task id="LOCAL-00002" summary="添加了和为S的两个数字">
+      <created>1595169166997</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1595169166997</updated>
+    </task>
+    <task id="LOCAL-00003" summary="添加左旋字符串">
+      <created>1595170493974</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1595170493974</updated>
+    </task>
+    <task id="LOCAL-00004" summary="添加了是 扑克牌顺子 翻转单词顺序">
+      <created>1595414408145</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1595414408145</updated>
+    </task>
+    <task id="LOCAL-00005" summary="7/23 添加LastRemaining_Solution,Sum_Solution">
+      <created>1595573035307</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1595573035307</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -301,12 +361,17 @@
         <entry key="MAIN">
           <value>
             <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
               <option name="FILTERS">
                 <map>
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="master" />
+                        <option value="hpComputer" />
                       </list>
                     </value>
                   </entry>
@@ -338,16 +403,24 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
+    <MESSAGE value="添加了和为S的连续正数" />
+    <MESSAGE value="添加了和为S的两个数字" />
+    <MESSAGE value="添加左旋字符串" />
+    <MESSAGE value="添加了是 扑克牌顺子 翻转单词顺序" />
+    <MESSAGE value="7/23 添加LastRemaining_Solution,Sum_Solution" />
+    <MESSAGE value="添加了把字符串转化为整数" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加了把字符串转化为整数" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="586" y="198" key="#Inspections" timestamp="1592979053927">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="586" y="198" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1592979053927" />
-    <state x="651" y="274" key="#Notifications" timestamp="1589257360800">
+    <state x="469" y="157" key="#Inspections" timestamp="1595493524887">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="651" y="274" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1589257360800" />
+    <state x="469" y="157" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1595493524887" />
+    <state x="586" y="198" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1592979053927" />
+    <state x="651" y="274" key="#Notifications" timestamp="1599316490939">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="651" y="274" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1599316490939" />
     <state x="352" y="0" key="#Project_Structure" timestamp="1593782874574">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -364,88 +437,86 @@
     <state x="718" y="148" key="#com.intellij.ide.util.MemberChooser" timestamp="1592909228806">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="574" y="117" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1590742744000" />
     <state x="718" y="148" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1592909228806" />
-    <state x="449" y="147" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1589030254940">
+    <state x="449" y="147" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1595494189341">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="449" y="147" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824@0.0.1536.824" timestamp="1589030254940" />
-    <state x="511" y="264" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1587795706362">
+    <state x="449" y="147" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824@0.0.1536.824" timestamp="1595494189341" />
+    <state x="367" y="0" key="CommitChangelistDialog2" timestamp="1597243545514">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="511" y="264" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.824@0.0.1536.824" timestamp="1587795706362" />
-    <state x="367" y="0" key="CommitChangelistDialog2" timestamp="1587796884677">
+    <state x="367" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1597243545514" />
+    <state x="147" y="64" key="DiffContextDialog" timestamp="1595572972702">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="367" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1587796884677" />
+    <state x="147" y="64" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1595572972702" />
     <state x="739" y="336" key="FileChooserDialogImpl" timestamp="1592836809066">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="739" y="336" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1592836809066" />
-    <state width="1877" height="284" key="GridCell.Tab.0.bottom" timestamp="1592923348075">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1493" height="260" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591261922180" />
-    <state width="1877" height="284" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592923348075" />
-    <state width="1877" height="284" key="GridCell.Tab.0.center" timestamp="1592923348074">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1493" height="260" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1591261922179" />
-    <state width="1877" height="284" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592923348074" />
-    <state width="1877" height="284" key="GridCell.Tab.0.left" timestamp="1592923348074">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1493" height="260" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1591261922179" />
-    <state width="1877" height="284" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592923348074" />
-    <state width="1877" height="284" key="GridCell.Tab.0.right" timestamp="1592923348075">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1493" height="260" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1591261922179" />
-    <state width="1877" height="284" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592923348075" />
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1592660755492">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1493" height="260" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591261922180" />
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592660755492" />
-    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1592660755491">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1493" height="260" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1591261922180" />
-    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592660755491" />
-    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1592660755491">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1493" height="260" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1591261922180" />
-    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592660755491" />
-    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1592660755492">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1493" height="260" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1591261922180" />
-    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592660755492" />
-    <state x="540" y="254" key="IDE.errors.dialog" timestamp="1592910340581">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="540" y="254" key="IDE.errors.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592910340581" />
-    <state x="573" y="113" key="RollbackChangesDialog" timestamp="1587796869935">
+    <state width="1493" height="260" key="GridCell.Tab.0.bottom" timestamp="1597759367978">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="573" y="113" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1587796869935" />
-    <state x="415" y="99" key="SettingsEditor" timestamp="1592978886332">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1493" height="260" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1597759367978" />
+    <state width="1877" height="284" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592923348075" />
+    <state width="1493" height="260" key="GridCell.Tab.0.center" timestamp="1597759367978">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="270" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1590734757080" />
+    <state width="1493" height="260" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1597759367978" />
+    <state width="1877" height="284" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592923348074" />
+    <state width="1493" height="260" key="GridCell.Tab.0.left" timestamp="1597759367978">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1597759367978" />
+    <state width="1877" height="284" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592923348074" />
+    <state width="1493" height="260" key="GridCell.Tab.0.right" timestamp="1597759367978">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1597759367978" />
+    <state width="1877" height="284" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592923348075" />
+    <state width="1493" height="260" key="GridCell.Tab.1.bottom" timestamp="1597759367979">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1597759367979" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592660755492" />
+    <state width="1493" height="260" key="GridCell.Tab.1.center" timestamp="1597759367979">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1597759367979" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592660755491" />
+    <state width="1493" height="260" key="GridCell.Tab.1.left" timestamp="1597759367979">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1597759367979" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592660755491" />
+    <state width="1493" height="260" key="GridCell.Tab.1.right" timestamp="1597759367979">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1597759367979" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592660755492" />
+    <state x="432" y="201" key="IDE.errors.dialog" timestamp="1599404603162">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="432" y="201" key="IDE.errors.dialog/0.0.1536.824@0.0.1536.824" timestamp="1599404603162" />
+    <state x="540" y="254" key="IDE.errors.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592910340581" />
+    <state x="270" y="0" key="SettingsEditor" timestamp="1595398168839">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1595398168839" />
     <state x="415" y="99" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1592978886332" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1591278915498">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="442" y="200" key="Vcs.Push.Dialog.v2" timestamp="1595169188621">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state x="442" y="200" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1595169188621" />
     <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1591278915498" />
     <state x="92" y="92" width="1736" height="856" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1592658273936">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="92" y="92" width="1736" height="856" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592658273936" />
-    <state x="753" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592651539506">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="602" y="342" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599407292838">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state x="602" y="342" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1599407292838" />
     <state x="753" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1592651539506" />
     <state x="334" y="129" key="new project wizard" timestamp="1592395217238">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -455,14 +526,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1591860523099" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1589112788088">
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1595409221482">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1589112788088" />
-    <state x="491" y="323" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1589098219229">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="491" y="323" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1536.824@0.0.1536.824" timestamp="1589098219229" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1595409221482" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
