@@ -1,0 +1,1 @@
+package designpattern.FrontControllerPattern;/** * <p> * 步骤 1 创建视图。 * </p> * * @author lipeilong * @time 2020/9/10 18:05 * @description 步骤 1 创建视图。 */public class StudentView {    public void show(){        System.out.println("Displaying Student Page");    }}

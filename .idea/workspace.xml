@@ -26,13 +26,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e9870490-c105-41b7-b53a-982e7494e4e2" name="Default Changelist" comment="添加了把字符串转化为整数">
-      <change afterPath="$PROJECT_DIR$/src/method/组合总和.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/method/组合总和II.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpattern/FrontControllerPattern/HomeView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpattern/FrontControllerPattern/StudentView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpattern/agent/Image.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpattern/agent/ProxyImage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpattern/agent/ProxyPatternDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpattern/agent/RealImage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpattern/templete/Cricket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpattern/templete/Football.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpattern/templete/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpattern/templete/TemplatePatternDemo.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/method/设计LRU缓存结构.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/Main1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/method/Duplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/method/Duplicate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,22 +126,9 @@
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="http.proxy" />
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.TemplatePatternDemo">
     <configuration name="构建乘积数组" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="method.构建乘积数组" />
-      <module name="JavaMethod" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="method.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Duplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="method.Duplicate" />
       <module name="JavaMethod" />
       <extension name="coverage">
         <pattern>
@@ -173,12 +166,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StrToInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="method.StrToInt" />
+    <configuration name="ProxyPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="designpattern.agent.ProxyPatternDemo" />
       <module name="JavaMethod" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="method.*" />
+          <option name="PATTERN" value="designpattern.agent.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TemplatePatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="designpattern.templete.TemplatePatternDemo" />
+      <module name="JavaMethod" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="designpattern.templete.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -187,19 +193,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.StrToInt" />
-      <item itemvalue="Application.Duplicate" />
       <item itemvalue="Application.Main (1)" />
       <item itemvalue="Application.前K个高频元素" />
       <item itemvalue="Application.构建乘积数组" />
+      <item itemvalue="Application.ProxyPatternDemo" />
+      <item itemvalue="Application.TemplatePatternDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TemplatePatternDemo" />
+        <item itemvalue="Application.ProxyPatternDemo" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.构建乘积数组" />
         <item itemvalue="Application.前K个高频元素" />
-        <item itemvalue="Application.Duplicate" />
-        <item itemvalue="Application.StrToInt" />
       </list>
     </recent_temporary>
   </component>
@@ -327,7 +333,7 @@
       <workItem from="1599648406059" duration="6584000" />
       <workItem from="1599656230608" duration="38000" />
       <workItem from="1599656289850" duration="4285000" />
-      <workItem from="1599715228513" duration="6014000" />
+      <workItem from="1599715228513" duration="10992000" />
     </task>
     <task id="LOCAL-00001" summary="添加了和为S的连续正数">
       <created>1595164137927</created>
@@ -385,7 +391,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599648470975</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="添加组合综合Ⅰ、Ⅱ">
+      <created>1599721399710</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1599721399710</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -444,9 +457,10 @@
     <MESSAGE value="添加左旋字符串" />
     <MESSAGE value="添加了是 扑克牌顺子 翻转单词顺序" />
     <MESSAGE value="7/23 添加LastRemaining_Solution,Sum_Solution" />
-    <MESSAGE value="添加了把字符串转化为整数" />
     <MESSAGE value="组合" />
-    <option name="LAST_COMMIT_MESSAGE" value="组合" />
+    <MESSAGE value="添加了把字符串转化为整数" />
+    <MESSAGE value="添加组合综合Ⅰ、Ⅱ" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加组合综合Ⅰ、Ⅱ" />
   </component>
   <component name="WindowStateProjectService">
     <state x="469" y="157" key="#Inspections" timestamp="1595493524887">
@@ -479,10 +493,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="449" y="147" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824@0.0.1536.824" timestamp="1595494189341" />
-    <state x="367" y="0" key="CommitChangelistDialog2" timestamp="1599648467922">
+    <state x="400" y="335" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1599730570991">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="367" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1599648467922" />
+    <state x="400" y="335" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1599730570991" />
+    <state x="367" y="0" key="CommitChangelistDialog2" timestamp="1599721396893">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="367" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1599721396893" />
     <state x="147" y="64" key="DiffContextDialog" timestamp="1595572972702">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -491,25 +509,25 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="739" y="336" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1592836809066" />
-    <state width="1493" height="260" key="GridCell.Tab.0.bottom" timestamp="1599656121066">
+    <state width="1493" height="171" key="GridCell.Tab.0.bottom" timestamp="1599730381927">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="260" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1599656121066" />
+    <state width="1493" height="171" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1599730381927" />
     <state width="1877" height="284" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592923348075" />
-    <state width="1493" height="260" key="GridCell.Tab.0.center" timestamp="1599656121066">
+    <state width="1493" height="171" key="GridCell.Tab.0.center" timestamp="1599730381927">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="260" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1599656121066" />
+    <state width="1493" height="171" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1599730381927" />
     <state width="1877" height="284" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592923348074" />
-    <state width="1493" height="260" key="GridCell.Tab.0.left" timestamp="1599656121066">
+    <state width="1493" height="171" key="GridCell.Tab.0.left" timestamp="1599730381926">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="260" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1599656121066" />
+    <state width="1493" height="171" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1599730381926" />
     <state width="1877" height="284" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592923348074" />
-    <state width="1493" height="260" key="GridCell.Tab.0.right" timestamp="1599656121066">
+    <state width="1493" height="171" key="GridCell.Tab.0.right" timestamp="1599730381927">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="260" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1599656121066" />
+    <state width="1493" height="171" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1599730381927" />
     <state width="1877" height="284" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592923348075" />
     <state width="1493" height="260" key="GridCell.Tab.1.bottom" timestamp="1599656121066">
       <screen x="0" y="0" width="1536" height="824" />

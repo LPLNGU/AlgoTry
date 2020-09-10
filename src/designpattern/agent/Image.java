@@ -1,0 +1,1 @@
+package designpattern.agent;/** * <p> * * </p> * * @author lipeilong * @time 2020/9/10 17:06 * @description */public interface Image {    void display();}
