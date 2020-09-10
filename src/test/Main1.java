@@ -1,0 +1,1 @@
+package test;import java.util.Scanner;/** * <p> * * </p> * * @author lipeilong * @time 2020/9/9 19:43 * @description */public class Main1 {    public static void main(String[] args) {        Scanner scanner = new Scanner(System.in);        int m = scanner.nextInt();        int n = scanner.nextInt();    }}
