@@ -26,19 +26,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e9870490-c105-41b7-b53a-982e7494e4e2" name="Default Changelist" comment="添加了把字符串转化为整数">
-      <change afterPath="$PROJECT_DIR$/src/designpattern/FrontControllerPattern/HomeView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designpattern/FrontControllerPattern/StudentView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designpattern/agent/Image.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designpattern/agent/ProxyImage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designpattern/agent/ProxyPatternDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designpattern/agent/RealImage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designpattern/templete/Cricket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designpattern/templete/Football.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designpattern/templete/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designpattern/templete/TemplatePatternDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/一和零.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/解数独.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/method/设计LRU缓存结构.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/method/Duplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/method/Duplicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/Main1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/Main1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,22 +119,14 @@
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="http.proxy" />
   </component>
-  <component name="RunManager" selected="Application.TemplatePatternDemo">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\MyWork\suanfati\src\method" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main (1)">
     <configuration name="构建乘积数组" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="method.构建乘积数组" />
-      <module name="JavaMethod" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="method.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="前K个高频元素" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="method.前K个高频元素" />
       <module name="JavaMethod" />
       <extension name="coverage">
         <pattern>
@@ -192,9 +177,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="一和零" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="method.一和零" />
+      <module name="JavaMethod" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="method.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Main (1)" />
-      <item itemvalue="Application.前K个高频元素" />
       <item itemvalue="Application.构建乘积数组" />
       <item itemvalue="Application.ProxyPatternDemo" />
       <item itemvalue="Application.TemplatePatternDemo" />
@@ -205,7 +202,6 @@
         <item itemvalue="Application.ProxyPatternDemo" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.构建乘积数组" />
-        <item itemvalue="Application.前K个高频元素" />
       </list>
     </recent_temporary>
   </component>
@@ -334,6 +330,10 @@
       <workItem from="1599656230608" duration="38000" />
       <workItem from="1599656289850" duration="4285000" />
       <workItem from="1599715228513" duration="10992000" />
+      <workItem from="1599741646077" duration="1720000" />
+      <workItem from="1599804660256" duration="438000" />
+      <workItem from="1600061166813" duration="944000" />
+      <workItem from="1600158308920" duration="6492000" />
     </task>
     <task id="LOCAL-00001" summary="添加了和为S的连续正数">
       <created>1595164137927</created>
@@ -398,7 +398,21 @@
       <option name="project" value="LOCAL" />
       <updated>1599721399710</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="添加两个设计模式">
+      <created>1599741757758</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1599741757758</updated>
+    </task>
+    <task id="LOCAL-00011" summary="添加了把字符串转化为整数">
+      <created>1599741828293</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1599741828293</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -458,9 +472,10 @@
     <MESSAGE value="添加了是 扑克牌顺子 翻转单词顺序" />
     <MESSAGE value="7/23 添加LastRemaining_Solution,Sum_Solution" />
     <MESSAGE value="组合" />
-    <MESSAGE value="添加了把字符串转化为整数" />
     <MESSAGE value="添加组合综合Ⅰ、Ⅱ" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加组合综合Ⅰ、Ⅱ" />
+    <MESSAGE value="添加两个设计模式" />
+    <MESSAGE value="添加了把字符串转化为整数" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加了把字符串转化为整数" />
   </component>
   <component name="WindowStateProjectService">
     <state x="469" y="157" key="#Inspections" timestamp="1595493524887">
@@ -477,10 +492,6 @@
     </state>
     <state x="352" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1593782874574" />
     <state x="440" y="94" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1592395225183" />
-    <state x="690" y="274" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1591281920998">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="690" y="274" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591281920998" />
     <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592841378754">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -497,10 +508,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="400" y="335" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1599730570991" />
-    <state x="367" y="0" key="CommitChangelistDialog2" timestamp="1599721396893">
+    <state x="367" y="0" key="CommitChangelistDialog2" timestamp="1599741826902">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="367" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1599721396893" />
+    <state x="367" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1599741826902" />
+    <state width="431" height="466" key="DebuggerActiveHint" timestamp="1600172121081">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="431" height="466" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1600172121081" />
     <state x="147" y="64" key="DiffContextDialog" timestamp="1595572972702">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -509,45 +524,45 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="739" y="336" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1592836809066" />
-    <state width="1493" height="171" key="GridCell.Tab.0.bottom" timestamp="1599730381927">
+    <state width="1493" height="260" key="GridCell.Tab.0.bottom" timestamp="1600178317972">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="171" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1599730381927" />
+    <state width="1493" height="260" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600178317972" />
     <state width="1877" height="284" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592923348075" />
-    <state width="1493" height="171" key="GridCell.Tab.0.center" timestamp="1599730381927">
+    <state width="1493" height="260" key="GridCell.Tab.0.center" timestamp="1600178317972">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="171" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1599730381927" />
+    <state width="1493" height="260" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1600178317972" />
     <state width="1877" height="284" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592923348074" />
-    <state width="1493" height="171" key="GridCell.Tab.0.left" timestamp="1599730381926">
+    <state width="1493" height="260" key="GridCell.Tab.0.left" timestamp="1600178317972">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="171" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1599730381926" />
+    <state width="1493" height="260" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1600178317972" />
     <state width="1877" height="284" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592923348074" />
-    <state width="1493" height="171" key="GridCell.Tab.0.right" timestamp="1599730381927">
+    <state width="1493" height="260" key="GridCell.Tab.0.right" timestamp="1600178317972">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="171" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1599730381927" />
+    <state width="1493" height="260" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1600178317972" />
     <state width="1877" height="284" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592923348075" />
-    <state width="1493" height="260" key="GridCell.Tab.1.bottom" timestamp="1599656121066">
+    <state width="1493" height="260" key="GridCell.Tab.1.bottom" timestamp="1600178317973">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="260" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1599656121066" />
+    <state width="1493" height="260" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600178317973" />
     <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592660755492" />
-    <state width="1493" height="260" key="GridCell.Tab.1.center" timestamp="1599656121066">
+    <state width="1493" height="260" key="GridCell.Tab.1.center" timestamp="1600178317972">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="260" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1599656121066" />
+    <state width="1493" height="260" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1600178317972" />
     <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592660755491" />
-    <state width="1493" height="260" key="GridCell.Tab.1.left" timestamp="1599656121066">
+    <state width="1493" height="260" key="GridCell.Tab.1.left" timestamp="1600178317972">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="260" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1599656121066" />
+    <state width="1493" height="260" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1600178317972" />
     <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592660755491" />
-    <state width="1493" height="260" key="GridCell.Tab.1.right" timestamp="1599656121066">
+    <state width="1493" height="260" key="GridCell.Tab.1.right" timestamp="1600178317972">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="260" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1599656121066" />
+    <state width="1493" height="260" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1600178317972" />
     <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592660755492" />
     <state x="432" y="201" key="IDE.errors.dialog" timestamp="1599404603162">
       <screen x="0" y="0" width="1536" height="824" />
@@ -563,7 +578,6 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="442" y="200" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1595169188621" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1591278915498" />
     <state x="92" y="92" width="1736" height="856" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1592658273936">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -604,6 +618,16 @@
           <line>55</line>
           <option name="timeStamp" value="15" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/method/一和零.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/method/一和零.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/method/前K个高频元素.java</url>
           <line>24</line>
@@ -611,6 +635,14 @@
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/method/一和零.java</url>
+          <line>20</line>
+          <properties class="method.一和零" method="findMaxForm">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="17" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
