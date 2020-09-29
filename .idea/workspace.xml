@@ -26,9 +26,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e9870490-c105-41b7-b53a-982e7494e4e2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/method/平衡二叉树.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/二叉树的最大深度.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/冗余连接II.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/method/翻转二叉树.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/method/翻转二叉树.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThread/MultiThread.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThread/src/com/lpl/alternate_output/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/multithread/alternate_output/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThread/src/com/lpl/clientandserver/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/multithread/clientandserver/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThread/src/com/lpl/clientandserver/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/multithread/clientandserver/Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThread/src/com/lpl/interrupt/Interrupted.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/multithread/interrupt/Interrupted.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThread/src/com/lpl/producer_and_consumer/Consumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/multithread/producer_and_consumer/Consumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThread/src/com/lpl/producer_and_consumer/Producer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/multithread/producer_and_consumer/Producer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThread/src/com/lpl/producer_and_consumer/ProducerConsumerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/multithread/producer_and_consumer/ProducerConsumerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThread/src/com/lpl/read_wite_lock/Cache.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/multithread/read_wite_lock/Cache.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThread/src/com/lpl/safe_shutdown/Shutdown.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/multithread/safe_shutdown/Shutdown.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThread/src/com/lpl/threadlocal/Profiler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/multithread/threadlocal/Profiler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThread/src/com/lpl/wait_notify/WaitNotify.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/multithread/wait_notify/WaitNotify.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/method/一和零.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/method/一和零.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exam/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/Main1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exam/Main1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,6 +102,7 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -121,7 +138,7 @@
       <recent name="E:\MyWork\suanfati\src\method" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.Main1">
     <configuration name="构建乘积数组" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="method.构建乘积数组" />
       <module name="JavaMethod" />
@@ -135,12 +152,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.Main" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exam.Main" />
       <module name="JavaMethod" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.*" />
+          <option name="PATTERN" value="exam.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exam.Main1" />
+      <module name="JavaMethod" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exam.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -188,16 +218,17 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.Main" />
       <item itemvalue="Application.构建乘积数组" />
       <item itemvalue="Application.ProxyPatternDemo" />
       <item itemvalue="Application.TemplatePatternDemo" />
+      <item itemvalue="Application.Main1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main1" />
         <item itemvalue="Application.TemplatePatternDemo" />
         <item itemvalue="Application.ProxyPatternDemo" />
-        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.构建乘积数组" />
       </list>
     </recent_temporary>
@@ -331,7 +362,13 @@
       <workItem from="1599804660256" duration="438000" />
       <workItem from="1600061166813" duration="944000" />
       <workItem from="1600158308920" duration="6492000" />
-      <workItem from="1600249198861" duration="3328000" />
+      <workItem from="1600249198861" duration="4845000" />
+      <workItem from="1600326253243" duration="1844000" />
+      <workItem from="1600424107562" duration="591000" />
+      <workItem from="1600513903552" duration="1389000" />
+      <workItem from="1600930144810" duration="1624000" />
+      <workItem from="1601364585167" duration="594000" />
+      <workItem from="1601377711237" duration="251000" />
     </task>
     <task id="LOCAL-00001" summary="添加了和为S的连续正数">
       <created>1595164137927</created>
@@ -417,7 +454,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600249265644</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="平衡二叉数、翻转二叉树">
+      <created>1600252671166</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1600252671166</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -481,7 +525,8 @@
     <MESSAGE value="添加两个设计模式" />
     <MESSAGE value="添加了把字符串转化为整数" />
     <MESSAGE value="添加1和0" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加1和0" />
+    <MESSAGE value="平衡二叉数、翻转二叉树" />
+    <option name="LAST_COMMIT_MESSAGE" value="平衡二叉数、翻转二叉树" />
   </component>
   <component name="WindowStateProjectService">
     <state x="469" y="157" key="#Inspections" timestamp="1595493524887">
@@ -510,14 +555,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="449" y="147" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824@0.0.1536.824" timestamp="1595494189341" />
-    <state x="400" y="335" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1599730570991">
+    <state x="400" y="335" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1600253371404">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="400" y="335" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1599730570991" />
-    <state x="367" y="0" key="CommitChangelistDialog2" timestamp="1600249261837">
+    <state x="400" y="335" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1600253371404" />
+    <state x="367" y="0" key="CommitChangelistDialog2" timestamp="1600252669526">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="367" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1600249261837" />
+    <state x="367" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1600252669526" />
     <state width="431" height="466" key="DebuggerActiveHint" timestamp="1600172121081">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -530,25 +575,25 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="739" y="336" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1592836809066" />
-    <state width="1493" height="260" key="GridCell.Tab.0.bottom" timestamp="1600178317972">
+    <state width="1493" height="171" key="GridCell.Tab.0.bottom" timestamp="1600519440498">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="260" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600178317972" />
+    <state width="1493" height="171" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600519440498" />
     <state width="1877" height="284" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592923348075" />
-    <state width="1493" height="260" key="GridCell.Tab.0.center" timestamp="1600178317972">
+    <state width="1493" height="171" key="GridCell.Tab.0.center" timestamp="1600519440498">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="260" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1600178317972" />
+    <state width="1493" height="171" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1600519440498" />
     <state width="1877" height="284" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592923348074" />
-    <state width="1493" height="260" key="GridCell.Tab.0.left" timestamp="1600178317972">
+    <state width="1493" height="171" key="GridCell.Tab.0.left" timestamp="1600519440498">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="260" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1600178317972" />
+    <state width="1493" height="171" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1600519440498" />
     <state width="1877" height="284" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592923348074" />
-    <state width="1493" height="260" key="GridCell.Tab.0.right" timestamp="1600178317972">
+    <state width="1493" height="171" key="GridCell.Tab.0.right" timestamp="1600519440498">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="260" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1600178317972" />
+    <state width="1493" height="171" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1600519440498" />
     <state width="1877" height="284" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592923348075" />
     <state width="1493" height="260" key="GridCell.Tab.1.bottom" timestamp="1600178317973">
       <screen x="0" y="0" width="1536" height="824" />
@@ -597,10 +642,6 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="334" y="129" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1592395217238" />
-    <state x="616" y="240" key="run.anything.popup" timestamp="1591860523099">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1591860523099" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1595409221482">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -620,7 +661,7 @@
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/Main.java</url>
+          <url>file://$PROJECT_DIR$/src/exam/Main.java</url>
           <line>55</line>
           <option name="timeStamp" value="15" />
         </line-breakpoint>
@@ -629,11 +670,6 @@
           <line>37</line>
           <option name="timeStamp" value="19" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/method/一和零.java</url>
-          <line>26</line>
-          <option name="timeStamp" value="21" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/method/前K个高频元素.java</url>
           <line>24</line>
@@ -641,14 +677,6 @@
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/method/一和零.java</url>
-          <line>20</line>
-          <properties class="method.一和零" method="findMaxForm">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="17" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
