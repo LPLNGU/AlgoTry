@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -26,102 +29,137 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e9870490-c105-41b7-b53a-982e7494e4e2" name="Default Changelist" comment="二叉树后序遍历、二叉树最大深度、冗余连接Ⅱ">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/free-mybatis-generator-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/method/两数之和.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/method/等价多米诺骨牌对的数量.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/multithread/LearnConcurrentHashMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMethod/designpattern/FrontControllerPattern/HomeView.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMethod/designpattern/FrontControllerPattern/HomeView.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMethod/designpattern/FrontControllerPattern/StudentView.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMethod/designpattern/FrontControllerPattern/StudentView.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMethod/designpattern/agent/Image.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMethod/designpattern/agent/Image.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMethod/designpattern/agent/ProxyImage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMethod/designpattern/agent/ProxyImage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMethod/designpattern/agent/ProxyPatternDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMethod/designpattern/agent/ProxyPatternDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMethod/designpattern/agent/RealImage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMethod/designpattern/agent/RealImage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMethod/designpattern/singleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMethod/designpattern/singleton.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMethod/designpattern/templete/Cricket.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMethod/designpattern/templete/Cricket.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMethod/designpattern/templete/Football.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMethod/designpattern/templete/Football.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMethod/designpattern/templete/Game.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMethod/designpattern/templete/Game.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMethod/designpattern/templete/TemplatePatternDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMethod/designpattern/templete/TemplatePatternDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaMethod.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaMethod.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaMethod/exam/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMethod/exam/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMethod/exam/Main1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMethod/exam/Main1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaMethod/method/AddThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMethod/method/AddThread.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaMethod/method/ArrayOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMethod/method/ArrayOrder.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaMethod/method/CASTest$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMethod/method/CASTest$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaMethod/method/CASTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMethod/method/CASTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMethod/method/Counter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMethod/method/Counter.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaMethod/method/CountingBinaryTrees.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMethod/method/CountingBinaryTrees.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaMethod/method/DecThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMethod/method/DecThread.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaMethod/method/Duplicate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMethod/method/Duplicate.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaMethod/method/FindContinuousSequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMethod/method/FindContinuousSequence.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMethod/method/FindGreatestSumOfSubArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMethod/method/FindGreatestSumOfSubArray.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaMethod/method/FindNumbersWithSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMethod/method/FindNumbersWithSum.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaMethod/method/FindNumsAppearOnce.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMethod/method/FindNumsAppearOnce.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMethod/method/FirstNotRepeatingChar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMethod/method/FirstNotRepeatingChar.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaMethod/method/GetLeastNumbers_Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMethod/method/GetLeastNumbers_Solution.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaMethod/method/GetUglyNumber_Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMethod/method/GetUglyNumber_Solution.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaMethod/method/InversePairs.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMethod/method/InversePairs.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMethod/method/IsBalanced_Solution$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMethod/method/IsBalanced_Solution$TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMethod/method/IsBalanced_Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMethod/method/IsBalanced_Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMethod/method/LamdaTester$GreetingService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMethod/method/LamdaTester$GreetingService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMethod/method/LamdaTester.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMethod/method/LamdaTester.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaMethod/method/LastRemaining_Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMethod/method/LastRemaining_Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMethod/method/LearnThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMethod/method/LearnThread.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaMethod/method/LeftRotateString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMethod/method/LeftRotateString.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaMethod/method/MergeSortSelfTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMethod/method/MergeSortSelfTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaMethod/method/MoreThanHalfNum_Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMethod/method/MoreThanHalfNum_Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMethod/method/NumberOf1Between1AndN_Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMethod/method/NumberOf1Between1AndN_Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMethod/method/Permutation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMethod/method/Permutation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMethod/method/PrintFromTopToBottom$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMethod/method/PrintFromTopToBottom$TreeNode.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaMethod/method/PrintFromTopToBottom.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMethod/method/PrintFromTopToBottom.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaMethod/method/PrintMinNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMethod/method/PrintMinNumber.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaMethod/method/ReverseSentence.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMethod/method/ReverseSentence.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaMethod/method/StrToInt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMethod/method/StrToInt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMethod/method/Sum_Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMethod/method/Sum_Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMethod/method/TwentyFourPointCalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMethod/method/TwentyFourPointCalculator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMethod/method/VerifySquenceOfBST.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMethod/method/VerifySquenceOfBST.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMethod/method/ZeroDominateNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMethod/method/ZeroDominateNumber.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaMethod/method/isContinuous.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMethod/method/isContinuous.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaMethod/method/一和零.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMethod/method/一和零.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMethod/method/二分查找.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMethod/method/二分查找.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMethod/method/二叉树的层次遍历II$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMethod/method/二叉树的层次遍历II$TreeNode.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaMethod/method/二叉树的层次遍历II.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMethod/method/二叉树的层次遍历II.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaMethod/method/前K个高频元素.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMethod/method/前K个高频元素.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMethod/method/反转链表$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMethod/method/反转链表$ListNode.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaMethod/method/反转链表.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMethod/method/反转链表.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMethod/method/平衡二叉树$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMethod/method/平衡二叉树$TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMethod/method/平衡二叉树.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMethod/method/平衡二叉树.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMethod/method/构建乘积数组.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMethod/method/构建乘积数组.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMethod/method/组合.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMethod/method/组合.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMethod/method/组合总和.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMethod/method/组合总和.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMethod/method/组合总和II.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMethod/method/组合总和II.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMethod/method/翻转二叉树$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMethod/method/翻转二叉树$TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMethod/method/翻转二叉树.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMethod/method/翻转二叉树.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMethod/method/解数独.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMethod/method/解数独.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaMethod/multithread/alternate_output/main$print1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMethod/multithread/alternate_output/main$print1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaMethod/multithread/alternate_output/main$print2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMethod/multithread/alternate_output/main$print2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMethod/multithread/alternate_output/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMethod/multithread/alternate_output/main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaMethod/multithread/clientandserver/Client$ServerHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMethod/multithread/clientandserver/Client$ServerHandler.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaMethod/multithread/clientandserver/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMethod/multithread/clientandserver/Client.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaMethod/multithread/clientandserver/Server$ClientHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMethod/multithread/clientandserver/Server$ClientHandler.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaMethod/multithread/clientandserver/Server.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMethod/multithread/clientandserver/Server.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMethod/multithread/interrupt/Interrupted$BusyRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMethod/multithread/interrupt/Interrupted$BusyRunner.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaMethod/multithread/interrupt/Interrupted$SleepRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMethod/multithread/interrupt/Interrupted$SleepRunner.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaMethod/multithread/interrupt/Interrupted.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMethod/multithread/interrupt/Interrupted.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaMethod/multithread/producer_and_consumer/Consumer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMethod/multithread/producer_and_consumer/Consumer.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaMethod/multithread/producer_and_consumer/Producer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMethod/multithread/producer_and_consumer/Producer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMethod/multithread/producer_and_consumer/ProducerConsumerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMethod/multithread/producer_and_consumer/ProducerConsumerTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMethod/multithread/read_wite_lock/Cache.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMethod/multithread/read_wite_lock/Cache.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMethod/multithread/safe_shutdown/Shutdown$Runner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMethod/multithread/safe_shutdown/Shutdown$Runner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMethod/multithread/safe_shutdown/Shutdown.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMethod/multithread/safe_shutdown/Shutdown.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaMethod/multithread/threadlocal/Profiler$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMethod/multithread/threadlocal/Profiler$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaMethod/multithread/threadlocal/Profiler.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMethod/multithread/threadlocal/Profiler.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaMethod/multithread/wait_notify/WaitNotify$Notify.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMethod/multithread/wait_notify/WaitNotify$Notify.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaMethod/multithread/wait_notify/WaitNotify$Wait.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMethod/multithread/wait_notify/WaitNotify$Wait.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaMethod/multithread/wait_notify/WaitNotify.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaMethod/multithread/wait_notify/WaitNotify.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/method/二叉树的中序遍历.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/method/二叉树的中序遍历.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designpattern/FrontControllerPattern/HomeView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designpattern/FrontControllerPattern/HomeView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designpattern/FrontControllerPattern/StudentView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designpattern/FrontControllerPattern/StudentView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designpattern/agent/Image.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designpattern/agent/Image.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designpattern/agent/ProxyImage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designpattern/agent/ProxyImage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designpattern/agent/ProxyPatternDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designpattern/agent/ProxyPatternDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designpattern/agent/RealImage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designpattern/agent/RealImage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designpattern/singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designpattern/singleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designpattern/templete/Cricket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designpattern/templete/Cricket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designpattern/templete/Football.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designpattern/templete/Football.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designpattern/templete/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designpattern/templete/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designpattern/templete/TemplatePatternDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designpattern/templete/TemplatePatternDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exam/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exam/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exam/Main1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exam/Main1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/method/Add.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/method/Add.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/method/ArrayOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/method/ArrayOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/method/CASTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/method/CASTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/method/Collection_Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/method/Collection_Sort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/method/ComputeIfAbsent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/method/ComputeIfAbsent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/method/CountingBinaryTrees.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/method/CountingBinaryTrees.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/method/Duplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/method/Duplicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/method/EqualTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/method/EqualTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/method/Fabonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/method/Fabonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/method/FindContinuousSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/method/FindContinuousSequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/method/FindGreatestSumOfSubArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/method/FindGreatestSumOfSubArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/method/FindNumbersWithSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/method/FindNumbersWithSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/method/FindNumsAppearOnce.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/method/FindNumsAppearOnce.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/method/FirstNotRepeatingChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/method/FirstNotRepeatingChar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/method/GetLeastNumbers_Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/method/GetLeastNumbers_Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/method/GetUglyNumber_Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/method/GetUglyNumber_Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/method/HashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/method/HashMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/method/InversePairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/method/InversePairs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/method/IsBalanced_Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/method/IsBalanced_Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/method/LamdaTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/method/LamdaTester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/method/LastRemaining_Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/method/LastRemaining_Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/method/LearnThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/method/LearnThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/method/LeftRotateString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/method/LeftRotateString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/method/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/method/MergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/method/MergeSortSelfTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/method/MergeSortSelfTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/method/MoreThanHalfNum_Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/method/MoreThanHalfNum_Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/method/NumberOf1Between1AndN_Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/method/NumberOf1Between1AndN_Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/method/Permutation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/method/Permutation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/method/PrintFromTopToBottom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/method/PrintFromTopToBottom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/method/PrintMinNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/method/PrintMinNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/method/ReverseSentence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/method/ReverseSentence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/method/SetTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/method/SetTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/method/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/method/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/method/SpaceReplace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/method/SpaceReplace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/method/StrToInt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/method/StrToInt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/method/Sum_Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/method/Sum_Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/method/TwentyFourPointCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/method/TwentyFourPointCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/method/VerifySquenceOfBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/method/VerifySquenceOfBST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/method/Vote.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/method/Vote.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/method/ZeroDominateNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/method/ZeroDominateNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/method/isContinuous.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/method/isContinuous.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/method/一和零.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/method/一和零.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/method/两数之和.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/method/两数之和.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/method/二分查找.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/method/二分查找.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/method/二叉树的中序遍历.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/method/二叉树的中序遍历.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/method/二叉树的后序遍历.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/method/二叉树的后序遍历.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/method/二叉树的层次遍历II.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/method/二叉树的层次遍历II.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/method/二叉树的最大深度.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/method/二叉树的最大深度.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/method/冗余连接II.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/method/冗余连接II.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/method/前K个高频元素.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/method/前K个高频元素.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/method/反转链表.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/method/反转链表.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/method/平衡二叉树.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/method/平衡二叉树.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/method/构建乘积数组.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/method/构建乘积数组.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/method/等价多米诺骨牌对的数量.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/method/等价多米诺骨牌对的数量.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/method/组合.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/method/组合.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/method/组合总和.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/method/组合总和.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/method/组合总和II.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/method/组合总和II.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/method/翻转二叉树.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/method/翻转二叉树.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/method/解数独.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/method/解数独.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/method/设计LRU缓存结构.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/method/设计LRU缓存结构.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/multithread/alternate_output/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/multithread/alternate_output/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/multithread/clientandserver/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/multithread/clientandserver/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/multithread/clientandserver/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/multithread/clientandserver/Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/multithread/interrupt/Interrupted.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/multithread/interrupt/Interrupted.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/multithread/producer_and_consumer/Consumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/multithread/producer_and_consumer/Consumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/multithread/producer_and_consumer/Producer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/multithread/producer_and_consumer/Producer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/multithread/producer_and_consumer/ProducerConsumerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/multithread/producer_and_consumer/ProducerConsumerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/multithread/read_wite_lock/Cache.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/multithread/read_wite_lock/Cache.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/multithread/safe_shutdown/Shutdown.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/multithread/safe_shutdown/Shutdown.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/multithread/threadlocal/Profiler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/multithread/threadlocal/Profiler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/multithread/wait_notify/WaitNotify.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/multithread/wait_notify/WaitNotify.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -165,6 +203,15 @@
     <exe-path />
     <other-services-enabled>true</other-services-enabled>
     <auto-save>true</auto-save>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\work\apache-maven-3.8.1\.m2\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../work/apache-maven-3.8.1" />
+        <option name="userSettingsFile" value="E:\work\apache-maven-3.8.1\.m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
   </component>
   <component name="ProjectConfigurationFiles">
     <option name="files">
@@ -210,14 +257,15 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="free.mybatis.gene.id" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\MyWork\suanfati\src\method" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.构建乘积数组">
+  <component name="RunManager" selected="JUnit.LearnConcurrentHashMap.test">
     <configuration name="构建乘积数组" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="method.构建乘积数组" />
       <module name="JavaMethod" />
@@ -231,25 +279,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LearnConcurrentHashMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="multithread.LearnConcurrentHashMap" />
+      <module name="JavaMethod" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exam.Main1" />
       <module name="JavaMethod" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="exam.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ProxyPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="designpattern.agent.ProxyPatternDemo" />
-      <module name="JavaMethod" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="designpattern.agent.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -296,22 +338,45 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LearnConcurrentHashMap.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaMethod" />
+      <option name="PACKAGE_NAME" value="multithread" />
+      <option name="MAIN_CLASS_NAME" value="multithread.LearnConcurrentHashMap" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.构建乘积数组" />
-      <item itemvalue="Application.ProxyPatternDemo" />
       <item itemvalue="Application.TemplatePatternDemo" />
       <item itemvalue="Application.Main1" />
+      <item itemvalue="Application.LearnConcurrentHashMap" />
+      <item itemvalue="JUnit.LearnConcurrentHashMap.test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.LearnConcurrentHashMap.test" />
+        <item itemvalue="Application.LearnConcurrentHashMap" />
         <item itemvalue="Application.构建乘积数组" />
         <item itemvalue="Application.Main1" />
         <item itemvalue="Application.TemplatePatternDemo" />
-        <item itemvalue="Application.ProxyPatternDemo" />
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -460,6 +525,13 @@
       <workItem from="1614329111844" duration="1465000" />
       <workItem from="1614330741830" duration="668000" />
       <workItem from="1620650740647" duration="993000" />
+      <workItem from="1620651824110" duration="109000" />
+      <workItem from="1620712487376" duration="229000" />
+      <workItem from="1620896145986" duration="120000" />
+      <workItem from="1620896308886" duration="34000" />
+      <workItem from="1620906214563" duration="651000" />
+      <workItem from="1620913878481" duration="727000" />
+      <workItem from="1620915468894" duration="1692000" />
     </task>
     <task id="LOCAL-00001" summary="添加了和为S的连续正数">
       <created>1595164137927</created>
@@ -563,7 +635,7 @@
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -628,40 +700,26 @@
     <MESSAGE value="二叉树后序遍历、二叉树最大深度、冗余连接Ⅱ" />
     <option name="LAST_COMMIT_MESSAGE" value="二叉树后序遍历、二叉树最大深度、冗余连接Ⅱ" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="632" y="170" key="#Project_Structure" timestamp="1620650751669">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="632" y="170" key="#Project_Structure/0.0.2560.1400@0.0.2560.1400" timestamp="1620650751669" />
-    <state x="989" y="593" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1620651498706">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="989" y="593" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1400@0.0.2560.1400" timestamp="1620651498706" />
-    <state x="984" y="441" key="git4idea.merge.GitMergeDialog" timestamp="1620651482581">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="984" y="441" key="git4idea.merge.GitMergeDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1620651482581" />
-  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/method/前K个高频元素.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/method/前K个高频元素.java</url>
           <line>38</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/method/前K个高频元素.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/method/前K个高频元素.java</url>
           <line>50</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/exam/Main.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/exam/Main.java</url>
           <line>55</line>
           <option name="timeStamp" value="15" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/method/前K个高频元素.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/method/前K个高频元素.java</url>
           <line>24</line>
           <properties class="method.前K个高频元素" method="topKFrequent">
             <option name="EMULATED" value="true" />
@@ -671,16 +729,20 @@
       </breakpoints>
     </breakpoint-manager>
   </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/suanfati$GetUglyNumber_Solution.ic" NAME="GetUglyNumber_Solution Coverage Results" MODIFIED="1591864494808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>method.*</FILTER>
-    </SUITE>
     <SUITE FILE_PATH="coverage/suanfati$Main__1_.ic" NAME="Main (1) Coverage Results" MODIFIED="1599653803581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>test.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/suanfati$GetUglyNumber_Solution.ic" NAME="GetUglyNumber_Solution Coverage Results" MODIFIED="1591864494808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>method.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/suanfati$K.ic" NAME="前K个高频元素 Coverage Results" MODIFIED="1599456736138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>method.*</FILTER>
