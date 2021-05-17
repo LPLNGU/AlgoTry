@@ -26,7 +26,7 @@ public class Client {
 
         @Override
         public void run() {
-            // TODO Auto-generated method stub
+            //Auto-generated method stub
             try{
                 InputStream is = socket.getInputStream();
                 InputStreamReader isr = new InputStreamReader(is, "UTF-8");

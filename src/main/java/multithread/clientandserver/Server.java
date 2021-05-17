@@ -80,7 +80,7 @@ public class Server {
                     sendMessage(message);
                 }
             } catch (Exception e) {
-                // TODO Auto-generated catch block
+                //Auto-generated catch block
                 e.printStackTrace();
             } finally {
                 //当客户端断线时，要将输出流从集合中删除
