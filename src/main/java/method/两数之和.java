@@ -1,5 +1,6 @@
 package method;
 
+import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 
@@ -40,16 +41,20 @@ import java.util.Map;
  */
 public class 两数之和 {
     public int[] twoSum(int[] nums, int target) {
-        Map<Integer, Integer> map = new HashMap<>();
-        for (int i = 0; i < nums.length; i++) {
-            if (map.containsKey(target - nums[i])) {
-                int[] res = new int[2];
-                res[0] = i;
-                res[1] = map.get(target - nums[i]);
-                return res;
-            }
-            map.put(nums[i], i);
+        if (nums == null || nums.length == 0) {
+            return new int[0];
         }
-        return null;
+
+        HashMap<Integer, Integer> hashMap = new HashMap<>();
+        int[] res = new int[2];
+        for (int i = 0; i < nums.length; i++) {
+            if (hashMap.get(nums[i]) != null) {
+                res[0] = hashMap.get(nums[i]);
+                res[1] = i;
+                break;
+            }
+            hashMap.put(target - nums[i], i);
+        }
+        return res;
     }
 }
