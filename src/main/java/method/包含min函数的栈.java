@@ -8,40 +8,40 @@ import java.util.ArrayDeque;
  * @author: 李沛隆21081020
  * @create: 2022-01-06 20:32
  */
-public class 包含min函数的栈 {
-
-    ArrayDeque<Integer> mainStack = new ArrayDeque<>();
-    ArrayDeque<Integer> helpStack = new ArrayDeque<>();
-
-    /**
-     * initialize your data structure here.
-     */
-    public void MinStack() {
-        mainStack = new ArrayDeque<>();
-        helpStack = new ArrayDeque<>();
-    }
-
-    public void push(int x) {
-        if (mainStack == null || helpStack == null) {
-            return;
-        }
-        mainStack.push(x);
-        if (helpStack.isEmpty() ||
-                helpStack.getFirst() > mainStack.getFirst()) {
-            helpStack.push(x);
-        }
-        
-    }
-
-    public void pop() {
-
-    }
-
-    public int top() {
-
-    }
-
-    public int min() {
-
-    }
-}
+//public class 包含min函数的栈 {
+//
+//    ArrayDeque<Integer> mainStack = new ArrayDeque<>();
+//    ArrayDeque<Integer> helpStack = new ArrayDeque<>();
+//
+//    /**
+//     * initialize your data structure here.
+//     */
+//    public void MinStack() {
+//        mainStack = new ArrayDeque<>();
+//        helpStack = new ArrayDeque<>();
+//    }
+//
+//    public void push(int x) {
+//        if (mainStack == null || helpStack == null) {
+//            return;
+//        }
+//        mainStack.push(x);
+//        if (helpStack.isEmpty() ||
+//                helpStack.getFirst() > mainStack.getFirst()) {
+//            helpStack.push(x);
+//        }
+//
+//    }
+//
+//    public void pop() {
+//
+//    }
+//
+//    public int top() {
+//
+//    }
+//
+//    public int min() {
+//
+//    }
+//}
