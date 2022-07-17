@@ -9,30 +9,31 @@ package method.linkedlist_algorithm;
 public class 反转链表Ⅱ {
 
 
-
     //递归解法
     public ListNode reverseBetween(ListNode head, int left, int right) {
         if (left == 1) {
-            //反转前n个
-            return reverseN(head, right);
+            return reverseToN(head, right);
         }
-        //走到第left个节点
-        head.next = reverseBetween(head.next, left - 1, right - 1);
+        ListNode resHead = reverseBetween(head.next, left - 1, right - 1);
+        //此处一定要注意，递归时连接链表
+        head.next = resHead;
         return head;
     }
 
-    ListNode successor = null;
+    ListNode endNode;
 
-    public ListNode reverseN(ListNode head, int n) {
+    public ListNode reverseToN(ListNode head, int n) {
         if (n == 1) {
-            successor = head.next;
+            endNode = head.next;
             return head;
         }
-        ListNode last = reverseN(head.next, n - 1);
+        //思考：返回最后一个node，就是尾部元素，递归到最后一个节点
+        ListNode last = reverseToN(head.next, n - 1);
         head.next.next = head;
-        head.next = successor;
+        head.next = endNode;
         return last;
     }
+
 
     public class ListNode {
         int val;
