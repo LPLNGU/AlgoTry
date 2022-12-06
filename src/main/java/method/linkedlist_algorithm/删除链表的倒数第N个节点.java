@@ -17,17 +17,26 @@ public class 删除链表的倒数第N个节点 {
     }
 
     public ListNode removeNthFromEnd(ListNode head, int n) {
-        if (head == null) {
+        if (head == null || n < 1) {
             return null;
         }
-        ListNode sentinel = new ListNode(-1);
-        sentinel.next = head;
-        ListNode toDel = findFromEnd(sentinel, n + 1);
-        if (toDel.next != null) {
-            ListNode tmp = toDel.next.next;
-            toDel.next = tmp;
+        ListNode sentry = new ListNode(0);
+        sentry.next = head;
+        ListNode fast = sentry,slow = sentry;
+
+        for (int i = 0; i < n + 1; i++) {
+            if (fast.next != null){
+                fast = fast.next;
+            } else {
+                return null;
+            }
         }
-        return sentinel.next;
+        while (fast != null) {
+            slow = slow.next;
+            fast = fast.next;
+        }
+        slow.next = slow.next.next;
+        return sentry.next;
     }
 
     public ListNode findFromEnd(ListNode head, int n) {

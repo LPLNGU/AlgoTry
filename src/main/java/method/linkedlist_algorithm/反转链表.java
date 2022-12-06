@@ -9,7 +9,7 @@ package method.linkedlist_algorithm;
 public class 反转链表 {
 
     public ListNode reverseList(ListNode head) {
-        if (head == null || head.next == null) {
+        if (head.next == null || head.next.next == null) {
             return head;
         }
         ListNode newHead = reverseList(head.next);
@@ -20,15 +20,15 @@ public class 反转链表 {
 
     //迭代写法
     public ListNode reverseList01(ListNode head) {
-        ListNode node = head, prev = null, next = null;
-        while (node != null) {
-            next = node.next;
-            node.next = prev;
-            prev = node;
-
-            node = next;
+        ListNode pre = null, next = null;
+        while (head != null) {
+            next = head.next;
+            head.next = pre;
+            pre = head;
+            //走到下一个
+            head = next;
         }
-        return prev;
+        return pre;
     }
 
     public class ListNode {
